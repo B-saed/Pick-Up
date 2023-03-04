@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1026537038821",
+    "firebase_url": "https://pick-up-5922e-default-rtdb.firebaseio.com",
+    "project_id": "pick-up-5922e",
+    "storage_bucket": "pick-up-5922e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026537038821:android:16a500245a2f95b57d850c",
+        "android_client_info": {
+          "package_name": "com.example.pick_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026537038821-ffu36fqjrrmj7cu4olekkrqbvdj28q17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP_YHiifElZg-tZTlfZu_zHwZo0fcHyQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026537038821-ffu36fqjrrmj7cu4olekkrqbvdj28q17.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1026537038821-ufj6otejtk606iv966mngnuvvd8c17mm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firebase.pickUp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026537038821:android:150032a50d31c89a7d850c",
+        "android_client_info": {
+          "package_name": "com.firebase.pick_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026537038821-ffu36fqjrrmj7cu4olekkrqbvdj28q17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP_YHiifElZg-tZTlfZu_zHwZo0fcHyQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026537038821-ffu36fqjrrmj7cu4olekkrqbvdj28q17.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1026537038821-ufj6otejtk606iv966mngnuvvd8c17mm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firebase.pickUp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
