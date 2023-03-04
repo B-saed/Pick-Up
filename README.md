@@ -1,6 +1,6 @@
 # pick_up
 
-A new Flutter project.
+Pick Up is a transporting app created to help drivers having available seat earn during their regular rides
 
 ## Getting Started
 
